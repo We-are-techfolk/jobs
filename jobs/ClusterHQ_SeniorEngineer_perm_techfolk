@@ -1,0 +1,64 @@
+title: <Senior & Lead Software Engineers>
+company: <ClusterHQ>
+url: http://<clusterhq.com/careers/job/100/)>
+location: <Bristol,England>
+contract: permanent
+contact:
+    name: <Andrew Gifford>
+    email: <hello@techfolk.co.uk>
+    phone: <+44(0)117 318 2447>
+created: !!timestamp '2015-04-23' <- The date the job was submitted
+tags:
+  - Bristol
+  - england
+  - uk
+  - python
+  - containers
+  - containerisation
+  - asynchronous
+  - Twisted
+  - Asyncio
+  - Klein
+  - Tuilp
+  - Tornado
+  - Flocker
+  - Docker
+  - Relocation
+  - Network programming
+
+---
+
+# ClusterHQ needs you to help define and build open source containerisation software.
+
+ClusterHQ needs you to help define and build open source containerisation software.
+
+Containers will impact infrastructure, application architecture and software delivery as fundamentally in the coming years as virtualisation has in the last decade. Right now, the core technology and practices are being built to enable containers to move from developer tools to production-ready infrastructure for large critical systems. 
+
+ClusterHQ is front and centre in the container world, extending containers from managing stateless applications to include filesystems, databases, queues, etc. This means application+data can be moved as a unit between hosts, enabling continuous delivery, failover and scaling.
+
+We code in Python and Go, using asynchronous frameworks and we’ll support your transition from another language.
+
+We’re offering relocation to Bristol UK, which is fast becoming the cloud computing hub of Europe and renowned for its high quality of life.
+
+About you
+
+You’re skilled in developing distributed or asynchronous systems, from domains such as networking, storage, virtualisation, cloud or container software
+You bring advanced coding abilities, using Python | Go | C/C++ | Java | Scala | Erlang etc., working with frameworks and APIs such as Twisted | Asyncio | AKKA | JavaSpaces | Apache Camel etc.
+You follow best practice in TDD, automation and CI
+You can lead on, or contribute to, technical leadership, product architecture, software design, implementation, mentoring and pairing with less experienced engineers
+
+Salary and benefits
+
+Competitive joining salary + equity
+Discretionary relocation assistance
+28 days holiday + public holidays | pension | death in service | income protection | private healthcare | dental care | Cyclescheme | good coffee | on site restaurant
+
+About us
+
+ClusterHQ is an open source provider of containerisation software, whose products solve complex data problems for engineers worldwide. Newly funded, we need your help as we make our first major release this summer and scale to deliver. Our global team includes accomplished open source contributors, and has the engineering capability, leadership and market opportunity to make significant impact. Effective software design is at the heart of our organisation and fundamental to our future. https://clusterhq.com/careers
+
+Located: central Bristol, South West UK; 1:45 to London by train
+
+Please talk with techfolk, our recruitment partner, to find out more:
+
++44 (0)117 318 2447 | hello@techfolk.co.uk | @we_are_techfolk
